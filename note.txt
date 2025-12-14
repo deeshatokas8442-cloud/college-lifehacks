@@ -1,0 +1,5 @@
+1. Added headings and subheadings for clarity.
+2. Converted tips into numbered list for readability.
+3. Checked spelling and grammar.
+4. Highlighted key points with bold/italics.
+5. Simplified sentences for easy reading.
